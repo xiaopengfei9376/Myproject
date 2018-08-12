@@ -1,7 +1,7 @@
-# Homework of MazeFactory
-The zip package includes a Java file and a Readme file.
+## Homework of MazeFactory ##
+The zip package includes a **MazeFactory.java** file and a **README.md** file.
 
-## Running process
+### Running process ###
 * Usage on console:
     * You can run it with command line on console  when the file is in the current directory:<br>
     `javac MazeFactory.java`<br>
